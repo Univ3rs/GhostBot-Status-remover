@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["fv!com to show commands"];
+const statusMessages = ["fv!help"];
 
 
 let currentIndex = 0;
